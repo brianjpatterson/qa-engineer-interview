@@ -28,6 +28,10 @@ Defining and maintaining test automation: Automating tests can save a lot of tim
 Collaboration with other teams: A QA engineer may need to work closely with other teams such as development, product, and customer support. Ensuring effective communication and collaboration can be challenging.
 
 
+# In your experience, have you ever had to manage multiple teams at the same time?
+
+
+Yes, I have had experience managing multiple teams in my previous role as a software QA engineer. It required clear communication and coordination to ensure that each team was aware of the objectives and priorities of the project, and that their work aligned with these goals. I had to balance the needs and resources of each team effectively, and I had to establish clear roles and responsibilities for each team. I also provided regular updates and feedback to ensure that all teams were aware of the progress and status of the project. I had to rely on my strong leadership and management skills as well as effective communication and conflict resolution skills to manage multiple teams successfully.
 
 
 # What is your approach when you have found a bug in the software product?
