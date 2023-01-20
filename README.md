@@ -254,4 +254,16 @@ Additionally, Selenium does not have a built-in reporting feature, so you need t
 Finally, As Selenium WebDriver is just a tool for automating browser interactions, it does not have built-in support for other test types like load testing, performance testing and security testing. So, it would be great if Selenium could include support for other types of testing to make it a more versatile tool.
 
 
+# When dealing with a software developer who you have found an issue with their code and they are resistant to your suggestion, give a specific example of a time in the past how you have handled that.
+
+
+In the past, as a software QA automation engineer with 5 years of experience, I have dealt with a resistant developer by first clearly outlining the issue I have found with their code and the potential impact it could have on the project or end-users. I then present a suggestion for a solution and provide data or test results to support my argument. I also make sure to maintain a professional and respectful demeanor throughout the conversation. If the developer is still resistant, I would involve our team lead or project manager to help mediate and ensure the issue is resolved in a timely manner to minimize any negative impact on the project.
+
+
+# What automation framework are you currently using right now in your current project?
+
+
+As a software QA engineer with 5 years experience, currently in my current project, I am using Selenium WebDriver for automating web application testing. Selenium has been widely adopted in the industry for automating web application testing and it is a powerful tool that offers a wide range of functionalities and supports multiple programming languages, that's why it is my go-to automation framework for web application testing.
+
+
 
