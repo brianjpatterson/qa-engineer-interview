@@ -1,6 +1,7 @@
 # qa-engineer-interview
 Interview Questions and Answers for Software Testing / SDET / QA automation engineer
 
+
 # What is your approach when you have found a bug in the software product?
 
 
@@ -29,6 +30,34 @@ Communicate the resolution to the stakeholders: I would communicate the resoluti
 
 
 Overall, my approach would be to ensure that the bug is thoroughly documented, communicated promptly, and tracked until it is resolved and validated. I will also make sure that the stakeholders are informed about the bug resolution and the impact it has on the software.
+
+
+
+# What are different qualities that a software QA engineer should have in order for them to be successful in a very fast moving environment?
+
+
+Strong attention to detail: They should be able to spot even the smallest bugs or errors in the software.
+
+
+Good communication skills: They should be able to clearly communicate any issues or concerns to the development team.
+
+
+Flexibility and adaptability: They should be able to adjust to changes in requirements or timelines quickly and efficiently.
+
+
+Strong problem-solving skills: They should be able to think critically and come up with effective solutions to any problems that arise.
+
+
+Technical expertise: They should have a good understanding of the software development process and be familiar with industry-standard tools and technologies.
+
+
+Proactivity and initiative: They should be able to identify and address potential issues before they become problems.
+
+
+Strong team player: They should be able to work well with other team members and collaborate effectively to deliver high-quality software.
+
+
+
 
 
 
