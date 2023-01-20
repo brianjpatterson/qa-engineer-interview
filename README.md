@@ -1,6 +1,36 @@
 # qa-engineer-interview
 Interview Questions and Answers for Software Testing / SDET / QA automation engineer
 
+# What is your approach when you have found a bug in the software product?
+
+
+Reproduce the bug: I would first reproduce the bug to ensure that it can be consistently replicated and to gather any additional information that may be needed to understand the bug.
+
+
+Document the bug: I would then document the bug in a clear and concise manner, including information such as the steps to reproduce the bug, the expected behavior, and the actual behavior. I would also include any relevant screenshots, log files, or error messages.
+
+
+Assess the severity of the bug: I would assess the severity of the bug and determine the priority level based on how it impacts the functionality of the software. This would help to determine when the bug should be fixed and how it should be prioritized.
+
+
+Communicate the bug to the development team: I would communicate the bug to the development team as soon as possible, providing them with all of the relevant information and documentation. This would help them understand the issue and begin working on a fix.
+
+
+Track the bug: I would track the bug throughout the entire process, from the initial report to the final resolution. This would involve keeping track of the status, progress, and any additional information that may be needed to resolve the bug.
+
+
+Validate the bug fix: Once the development team has fixed the bug, I would validate the bug fix to ensure that it has been resolved and that the software is functioning as expected.
+
+
+Update the documentation: If necessary, I would update the documentation to reflect the bug and its resolution.
+
+
+Communicate the resolution to the stakeholders: I would communicate the resolution of the bug to the stakeholders, including the development team, the project manager, and any other relevant parties.
+
+
+Overall, my approach would be to ensure that the bug is thoroughly documented, communicated promptly, and tracked until it is resolved and validated. I will also make sure that the stakeholders are informed about the bug resolution and the impact it has on the software.
+
+
 
 # How do you approach working in an ambiguous environment?
 
