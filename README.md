@@ -58,6 +58,19 @@ Strong team player: They should be able to work well with other team members and
 
 
 
+# Can you tell me the difference between an implicit and explicit wait?
+
+
+In software QA engineering, an implicit wait and an explicit wait are both used to handle dynamic elements on a web page, but they differ in how they are implemented and used.
+
+
+An implicit wait is a setting that is applied globally to the entire WebDriver instance. When an implicit wait is set, the WebDriver will wait for a certain amount of time (in seconds) before timing out when trying to find an element on the page. This wait time applies to all elements, and will be used whenever the WebDriver is searching for an element. The implicit wait is set once and lasts for the entire duration of the WebDriver's execution.
+
+
+On the other hand, an explicit wait is used to wait for a specific element or condition to be met before proceeding with the execution of the script. The explicit wait is set on a per-element basis and is used in conjunction with expected conditions, which are predefined conditions that the WebDriver should wait for before proceeding. The explicit wait is set only when the specific element or condition is needed, and will only wait for that specific element or condition.
+
+
+In general, an implicit wait is used when you expect an element to be present within a certain amount of time and an explicit wait is used when you want to wait for a specific element or condition on the page before proceeding with the execution of the script.
 
 
 
