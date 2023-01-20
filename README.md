@@ -132,3 +132,36 @@ Validate the selected element: I would validate that the selected element is ind
 
 
 In summary, my approach would be to select elements by using the most stable and unique locator, avoiding hardcoding the locators, validating the selected elements and using explicit waits when necessary. This approach would help ensure that the tests are reliable, maintainable and efficient.
+
+
+# How do you decide what should be automated and what you are not going to automate at all?  What are the criteria for automation in order for you to  spend the time you are going to spend to automate a feature?
+
+
+As a software QA engineer, there are several factors to consider when deciding what should be automated and what should not be automated:
+
+
+Repeatability: Automation is particularly useful for tasks that are repetitive and need to be performed multiple times. If a task needs to be performed frequently, it may be more efficient to automate it.
+
+
+Stability: Automation is also useful for tasks that are stable and unlikely to change. If a feature or functionality is unlikely to change, it may be a good candidate for automation.
+
+
+Time-consuming: Automation can be used to save time on tasks that are time-consuming or that would take a long time to perform manually.
+Risk: Automation can be used to reduce the risk of human error on tasks that are prone to errors.
+
+
+Cost-benefit: It's important to weigh the cost of creating and maintaining the automation against the potential benefits. It may not make sense to automate a task if the cost of automation is greater than the benefits gained from it.
+
+
+Test coverage: Consider what type of testing the automation will cover. Some types of test such as exploratory testing, usability testing and acceptance testing are not suitable for automation.
+
+
+Return on investment: Consider the return on investment of the automation. Automating a test that runs once a year is not worth the time and effort put into it.
+
+
+Complexity: Automation is not suitable for complex tasks that require human intelligence and decision making.
+
+
+In general, it's important to consider the cost and benefits of automation and to prioritize the tasks that will provide the most value. It's also important to consider the maintainability and scalability of the automation in the long run.
+
+
