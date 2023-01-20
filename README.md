@@ -266,4 +266,63 @@ In the past, as a software QA automation engineer with 5 years of experience, I 
 As a software QA engineer with 5 years experience, currently in my current project, I am using Selenium WebDriver for automating web application testing. Selenium has been widely adopted in the industry for automating web application testing and it is a powerful tool that offers a wide range of functionalities and supports multiple programming languages, that's why it is my go-to automation framework for web application testing.
 
 
+# --- Not Yet Answered --- 
+
+
+# What makes a good manual testing strategy?
+
+
+# What makes a good automated testing strategy?
+
+
+# How do you normally work with cross-functional partners?
+
+
+# What is the difference between a functional and a non-functional test?
+
+
+# Do you have any experience with non-functional testing?
+
+
+# What bug tracking systems are you familiar with?
+
+
+# What are the most common improvements you normally recommend to new teams you join?
+
+
+# What is a regression?  Why are they bad?
+
+
+# What is meant by”shifting left”, as it relates to QA?
+
+
+# What stage of the PDLC/SDLC should testing begin to get involved?
+
+
+# What CI/CD tools have you worked with? Which do you prefer and why?
+
+
+# What is a test plan?
+
+
+# What is the testing cycle?
+
+
+# What is a software release?
+
+
+# What is SCRUM?
+
+
+# What is Kanban?
+
+
+# What is the difference between Ruby and Ruby on Rails?
+
+
+# What is Cucumber, why do teams use it?
+
+
+# Have you ever been involved with testing during the product development phase before it goes to engineering?  
+
 
