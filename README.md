@@ -1,6 +1,34 @@
 # qa-engineer-interview
 Interview Questions and Answers for Software Testing / SDET / QA automation engineer
 
+# In your experience what are different challenges QA faces on a regular / day to day basis?
+
+
+Keeping up with fast-paced development cycles: In a fast-moving environment, it can be challenging to keep up with the rapid pace of development and ensure that software is thoroughly tested and ready for release.
+
+
+Managing competing priorities: A QA engineer may have to balance multiple projects or priorities at once, which can be challenging to manage and ensure that everything is being tested properly.
+
+
+Dealing with changing requirements: As software development progresses, requirements may change, which can make it difficult for a QA engineer to stay on top of what needs to be tested and how.
+
+
+Finding and reproducing bugs: Finding and reproducing bugs can be challenging, especially if they are not easily reproducible or if they are intermittent in nature.
+
+
+Keeping up with new technologies and tools: New technologies and tools are constantly emerging, and it can be difficult for a QA engineer to stay current and know how to use them effectively.
+
+
+Managing and organizing test cases: Keeping test cases organized and up-to-date is crucial for effective software testing, but it can be a time-consuming task.
+
+
+Defining and maintaining test automation: Automating tests can save a lot of time and improve the efficiency of the testing process, but it can be challenging to define test automation that can handle the variety of test cases, and maintain them as the product evolves.
+
+
+Collaboration with other teams: A QA engineer may need to work closely with other teams such as development, product, and customer support. Ensuring effective communication and collaboration can be challenging.
+
+
+
 
 # What is your approach when you have found a bug in the software product?
 
