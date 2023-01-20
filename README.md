@@ -224,3 +224,34 @@ I also have implemented a reporting library like Extent report for test results 
 
 
 The framework is designed in a way that it can be easily integrated with CI/CD pipeline and can be easily scaled to accommodate more tests and test suites. I have chosen Selenium and Java for this framework as it is widely adopted in the industry for automating web application testing and it provides a wide range of functionalities and supports multiple programming languages. The use of POM pattern and TestNG annotations makes it easy to maintain and scale the code.
+
+
+# How much do you know about CI/CD and do you have experience building automation tests into the pipeline?
+
+
+I am familiar with the concepts of CI/CD (Continuous Integration/Continuous Deployment) and have experience building automation tests into the pipeline. I understand the importance of automating the testing process and integrating it with the CI/CD pipeline to ensure that the software is tested and deployed quickly and efficiently, without compromising on quality. I have experience setting up and configuring CI/CD pipelines using tools such as Jenkins, Travis CI, and CircleCI. Additionally, I have experience with various test automation frameworks such as Selenium, Appium, etc. to build and run test suites as part of the CI/CD pipeline.
+
+
+
+# Have you ever used BDD
+
+
+Yes, I have experience using BDD (Behavior-Driven Development) in my previous role as a QA automation engineer. I have experience creating and implementing test cases using Gherkin syntax and utilizing BDD frameworks such as Cucumber and SpecFlow.
+
+
+
+# What is your favorite software and why?  What are different quality aspects of that software that you like?   Have you observed anythingyou would like that particular software to improve?
+
+
+One of my favorite software tools is Selenium WebDriver. I find it to be a powerful tool that offers a wide range of functionalities and supports multiple programming languages. It allows for automating web application testing, which is essential for ensuring the quality of the software. Selenium's ability to interact with the web page elements and its support for different browsers make it a versatile tool for testing web applications. The Page Object Model (POM) design pattern and its integration with TestNG make it easy to write maintainable and scalable test code. Additionally, Selenium's wide adoption in the industry makes it easy to find support and resources for troubleshooting and learning.
+
+While Selenium is a powerful tool, there are a few areas where it could be improved. One such area is its support for testing dynamic web pages that rely on JavaScript and AJAX. Selenium's support for JavaScript is limited and it may require additional libraries and frameworks to handle such scenarios. Another area of improvement is the speed and performance of running Selenium tests. Running a large number of tests can be time-consuming and resource-intensive, and it can be challenging to run Selenium tests in parallel.
+
+
+Additionally, Selenium does not have a built-in reporting feature, so you need to use external libraries for generating test reports. Some libraries like ExtentReports or Allure are popular among QA engineers but it would be great if Selenium could have a built-in reporting feature to make it more convenient for developers.
+
+
+Finally, As Selenium WebDriver is just a tool for automating browser interactions, it does not have built-in support for other test types like load testing, performance testing and security testing. So, it would be great if Selenium could include support for other types of testing to make it a more versatile tool.
+
+
+
