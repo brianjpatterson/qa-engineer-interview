@@ -28,3 +28,35 @@ Document and keep track of the progress: I would document my testing efforts and
 
 Communicate with stakeholders: I would keep stakeholders informed of the progress of the project, and any issues or risks that arise. This would help ensure that stakeholders are aware of what is happening and that they are able to make informed decisions.
 
+
+# What is your approach to selecting elements in Selenium?
+
+
+Inspect the element: I would first inspect the element on the web page using browser developer tools to obtain the unique properties of the element such as the id, class, name, or xpath.
+
+
+Choose the best locator strategy: I would then choose the most appropriate locator strategy based on the unique properties of the element, the stability of the locator, and the performance of the test.
+
+
+Use the most stable and unique locator: I would prefer using the id or name attribute as a locator if they are unique and stable.
+
+
+Use class or CSS selectors with caution: I would use class or CSS selectors with caution as they can be affected by changes in the web page's layout.
+
+
+Use xpath only if necessary: I would use xpath only if no other locator strategy works and if the element is not present in the HTML DOM.
+
+
+Avoid using the index: I would avoid using the index when selecting elements as it can lead to flaky tests and unexpected results.
+
+
+Use explicit waits: I would use explicit waits to ensure that the elements are loaded and available before interacting with them.
+
+
+Avoid hardcoding the locators: I would avoid hardcoding the locators in the test scripts and instead store them in a separate file or class to make the test more maintainable.
+
+
+Validate the selected element: I would validate that the selected element is indeed the correct one by interacting with it or checking its properties.
+
+
+In summary, my approach would be to select elements by using the most stable and unique locator, avoiding hardcoding the locators, validating the selected elements and using explicit waits when necessary. This approach would help ensure that the tests are reliable, maintainable and efficient.
